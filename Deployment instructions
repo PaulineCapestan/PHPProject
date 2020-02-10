@@ -1,0 +1,9 @@
+Deployment instructions :
+
+1. Go to https://github.com/PaulineCapestan/PHPProject
+2. Download all the files
+3. Open xampp-control, and start Apache
+4. Go to http://localhost/project/homepage.php to have the first page of the project
+5. In xampp-control, start MySQL
+6. Go to http://localhost/phpmyadmin/sql.php?server=1&db=projectdb&table=listexpenses&pos=0
+7. In this menu, you can delete, add data and manage the whole database
